@@ -4,3 +4,4 @@ Mozzarella
 chèvre
 comté
 cheddar
+emmental
